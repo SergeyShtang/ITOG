@@ -1,0 +1,15 @@
+C:\Users\shtan\Desktop\LessItog\bin\Debug\net6.0\LessItog.exe
+C:\Users\shtan\Desktop\LessItog\bin\Debug\net6.0\LessItog.deps.json
+C:\Users\shtan\Desktop\LessItog\bin\Debug\net6.0\LessItog.runtimeconfig.json
+C:\Users\shtan\Desktop\LessItog\bin\Debug\net6.0\LessItog.dll
+C:\Users\shtan\Desktop\LessItog\bin\Debug\net6.0\LessItog.pdb
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\LessItog.csproj.AssemblyReference.cache
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\LessItog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\LessItog.AssemblyInfoInputs.cache
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\LessItog.AssemblyInfo.cs
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\LessItog.csproj.CoreCompileInputs.cache
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\LessItog.dll
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\refint\LessItog.dll
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\LessItog.pdb
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\LessItog.genruntimeconfig.cache
+C:\Users\shtan\Desktop\LessItog\obj\Debug\net6.0\ref\LessItog.dll
